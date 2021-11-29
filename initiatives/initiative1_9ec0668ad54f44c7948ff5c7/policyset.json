@@ -1,0 +1,38 @@
+{
+ "properties": {
+  "displayName": "initiative1",
+  "policyType": "Custom",
+  "metadata": {
+   "createdBy": "5bd73bee-be84-41b3-8831-d6a4d2da035a",
+   "createdOn": "2021-11-29T13:27:11.8063427Z",
+   "updatedBy": "efaf96cf-dd36-4cea-8182-c07e479c3796",
+   "updatedOn": "2021-11-29T13:40:51.4589766Z",
+   "gitHubPolicy": {
+    "digest": "f479c56c78527d18b5aa7c0b40e350024035c77a",
+    "repoName": "msfullstackdev/azure-policy",
+    "commitSha": "1d7f0c2b294f6ba12d76c5519e456a61dc40ea6a",
+    "runUrl": "https://github.com/msfullstackdev/azure-policy/actions/runs/1516188180",
+    "filepath": "initiatives/initiative1_9ec0668ad54f44c7948ff5c7"
+   }
+  },
+  "parameters": {},
+  "policyDefinitions": [
+   {
+    "policyDefinitionReferenceId": "Virtual machines and virtual machine scale sets should have encryption at host enabled_1",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/fc4d8e41-e223-45ea-9bf5-eada37891d87",
+    "parameters": {},
+    "groupNames": []
+   },
+   {
+    "policyDefinitionReferenceId": "Virtual machines should encrypt temp disks, caches, and data flows between Compute and Storage resou_1",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0961003e-5a0a-4549-abde-af6a37f2724d",
+    "parameters": {},
+    "groupNames": []
+   }
+  ],
+  "policyDefinitionGroups": []
+ },
+ "id": "/subscriptions/284e6953-acbe-4a51-b95c-158e161efb4a/providers/Microsoft.Authorization/policySetDefinitions/9ec0668ad54f44c7948ff5c7",
+ "type": "Microsoft.Authorization/policySetDefinitions",
+ "name": "9ec0668ad54f44c7948ff5c7"
+}

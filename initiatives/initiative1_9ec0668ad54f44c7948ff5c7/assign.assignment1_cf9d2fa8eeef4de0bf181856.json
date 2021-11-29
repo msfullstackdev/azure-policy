@@ -1,0 +1,32 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "assignment1",
+  "policyDefinitionId": "/subscriptions/284e6953-acbe-4a51-b95c-158e161efb4a/providers/Microsoft.Authorization/policySetDefinitions/9ec0668ad54f44c7948ff5c7",
+  "scope": "/subscriptions/284e6953-acbe-4a51-b95c-158e161efb4a",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Tamilselvan Sellappan",
+   "parameterScopes": {},
+   "createdBy": "5bd73bee-be84-41b3-8831-d6a4d2da035a",
+   "createdOn": "2021-11-29T13:27:47.9681667Z",
+   "updatedBy": "efaf96cf-dd36-4cea-8182-c07e479c3796",
+   "updatedOn": "2021-11-29T13:40:51.9226292Z",
+   "gitHubPolicy": {
+    "digest": "0ed9758b4050683e715af06bc0b6b30e06a608b9",
+    "repoName": "msfullstackdev/azure-policy",
+    "commitSha": "1d7f0c2b294f6ba12d76c5519e456a61dc40ea6a",
+    "runUrl": "https://github.com/msfullstackdev/azure-policy/actions/runs/1516188180",
+    "filepath": "initiatives/initiative1_9ec0668ad54f44c7948ff5c7/assign.assignment1_cf9d2fa8eeef4de0bf181856.json"
+   }
+  },
+  "enforcementMode": "DoNotEnforce"
+ },
+ "id": "/subscriptions/284e6953-acbe-4a51-b95c-158e161efb4a/providers/Microsoft.Authorization/policyAssignments/cf9d2fa8eeef4de0bf181856",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "cf9d2fa8eeef4de0bf181856"
+}

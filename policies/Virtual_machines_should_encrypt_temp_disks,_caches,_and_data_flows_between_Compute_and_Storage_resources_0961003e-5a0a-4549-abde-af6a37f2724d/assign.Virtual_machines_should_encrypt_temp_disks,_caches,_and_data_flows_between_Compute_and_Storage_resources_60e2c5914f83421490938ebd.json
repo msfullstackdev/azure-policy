@@ -1,0 +1,32 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "Virtual machines should encrypt temp disks, caches, and data flows between Compute and Storage resources",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0961003e-5a0a-4549-abde-af6a37f2724d",
+  "scope": "/subscriptions/284e6953-acbe-4a51-b95c-158e161efb4a/resourcegroups/myResourceGroup",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Tamilselvan Sellappan",
+   "parameterScopes": {},
+   "createdBy": "5bd73bee-be84-41b3-8831-d6a4d2da035a",
+   "createdOn": "2021-11-29T10:54:10.31214Z",
+   "updatedBy": "efaf96cf-dd36-4cea-8182-c07e479c3796",
+   "updatedOn": "2021-11-29T13:40:51.9030097Z",
+   "gitHubPolicy": {
+    "digest": "f72c96a128a4cc172ec5c57ff6fbdede113ef322",
+    "repoName": "msfullstackdev/azure-policy",
+    "commitSha": "1d7f0c2b294f6ba12d76c5519e456a61dc40ea6a",
+    "runUrl": "https://github.com/msfullstackdev/azure-policy/actions/runs/1516188180",
+    "filepath": "policies/Virtual_machines_should_encrypt_temp_disks,_caches,_and_data_flows_between_Compute_and_Storage_resources_0961003e-5a0a-4549-abde-af6a37f2724d/assign.Virtual_machines_should_encrypt_temp_disks,_caches,_and_data_flows_between_Compute_and_Storage_resources_60e2c5914f83421490938ebd.json"
+   }
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/284e6953-acbe-4a51-b95c-158e161efb4a/resourcegroups/myResourceGroup/providers/Microsoft.Authorization/policyAssignments/60e2c5914f83421490938ebd",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "60e2c5914f83421490938ebd"
+}
